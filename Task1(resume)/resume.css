@@ -1,0 +1,40 @@
+.mydiv{
+	border: 2%;
+	height: 100%;
+	width: 20%;
+	display: block;	
+	 position: fixed;
+     z-index: 1;
+    top: 0;
+    left: 0;
+    overflow-x: hidden;
+    padding-top: 20px;
+    text-align: center;
+    flex-wrap: wrap;
+    background-color: #33FFA2;
+}
+.mytable{
+  border-collapse: collapse;
+  border:1px solid black;
+  text-align: center;
+}
+
+.main{
+	padding-left: 20%;
+	height: 100%
+	width:80%;
+  margin-left: 2%;
+  margin-right: 2%;
+
+}
+td, th {
+  border: 1px solid black;
+  border-collapse:
+  padding-left: : 20%;
+  
+}
+
+.last{
+	padding-left: 20%;
+
+}
